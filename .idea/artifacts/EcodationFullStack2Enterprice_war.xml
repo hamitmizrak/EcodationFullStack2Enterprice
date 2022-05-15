@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EcodationFullStack2Enterprice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>EcodationFullStack2Enterprice</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="EcodationFullStack2Enterprice-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="EcodationFullStack2Enterprice:war exploded" />
+    </root>
+  </artifact>
+</component>
