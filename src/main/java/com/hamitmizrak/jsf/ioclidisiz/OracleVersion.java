@@ -13,7 +13,6 @@ public class OracleVersion {
     private IJavaVersion iJavaVersion;
 
 
-
     //Method
     public String oracleVersionMethod(String oracleData){
         return iJavaVersion.versions(oracleData);
