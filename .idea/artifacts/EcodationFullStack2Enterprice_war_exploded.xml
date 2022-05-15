@@ -13,9 +13,6 @@
         <element id="directory" name="classes">
           <element id="module-output" name="EcodationFullStack2Enterprice" />
         </element>
-        <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: javax.mvc:javax.mvc-api:1.0.0" />
-        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/EcodationFullStack2Enterprice-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
