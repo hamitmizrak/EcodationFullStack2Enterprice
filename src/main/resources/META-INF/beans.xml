@@ -10,4 +10,8 @@
         <class> com.hamitmizrak.alternative._03_JavaVersion2</class>
     </alternatives>
 
+    <interceptors>
+        <class>com.hamitmizrak.alternative.aop._3_InterceptorYolKesiciAsilIs</class>
+    </interceptors>
+
 </beans>
